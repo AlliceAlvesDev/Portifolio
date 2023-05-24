@@ -1,3 +1,3 @@
-# Apresentação do meu portifólio
+# Apresentação de um portifólio
 
-> Status do protejo: Em desenvolvimento
+> Estudando pela Alura, estou criando a apresentação de um portifólio, que ainda não é meu.
