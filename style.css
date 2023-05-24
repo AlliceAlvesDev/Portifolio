@@ -3,10 +3,6 @@ body {
     color: #f6f6f6;
 }
 
-p {
-    font-weight: bold;
-}
-
-span {
+.titulo-destaque {
     color: #22D4FD;
 }
