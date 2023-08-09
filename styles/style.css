@@ -49,6 +49,11 @@ body {
     gap: 82px;
 }
 
+.apresentacao__conteudo__linha {
+    width: 100%;
+    border-bottom: 1px dashed var(--cor-terciaria);
+}
+
 .apresentacao__conteudo {
     width: 50%;
     display: flex;
